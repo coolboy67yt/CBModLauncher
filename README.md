@@ -21,7 +21,10 @@ CBModLauncher is a simple utility to easily manage Minecraft mods by swapping th
 2. **Install Python:**
    - Make sure you have Python 3.9 or later installed on your system.
 
-3. **Run the Program:**
+3. **Add your mods**
+   - Put your mods in a folder in the modGroup folder, for example: modGroup/MyFavoriteMods/
+   
+4. **Run the Program:**
    - Navigate to the CBModLauncher directory.
    - Run the executable. (`app.exe`)
 
